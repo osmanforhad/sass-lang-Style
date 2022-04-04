@@ -1,0 +1,26 @@
+.menu {
+  background-color: antiquewhite;
+}
+
+.menu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.menu ul li {
+  display: inline-block;
+}
+
+.menu ul li a {
+  color: cadetblue;
+  text-decoration: none;
+  display: block;
+  padding: 10px 20px;
+  color: #e12828;
+}
+
+.menu ul li a:hover {
+  color: burlywood;
+}
+/*# sourceMappingURL=style.css.map */

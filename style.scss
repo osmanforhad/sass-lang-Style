@@ -1,0 +1,21 @@
+.menu{
+    background-color: antiquewhite;
+    ul{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        li{
+            display: inline-block;
+            a{
+                color: cadetblue;
+                text-decoration: none;
+                display: block;
+                padding: 10px 20px;
+                color: rgb(225, 40, 40);
+                &:hover{
+                    color: burlywood;
+                }
+            }
+        }
+    }
+}
